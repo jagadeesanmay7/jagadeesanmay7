@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jagadeesanmay7@gmail.com**
 
-- ⚡ Fun fact **I'm funny**
+- ⚡ Fun fact **The smallest bone in your body is in your ear**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
