@@ -2,18 +2,19 @@
 <ul>
   <li>🔭 I’m Jagadeesan</li>
   <li>
-    🏢 I work at Logic information systems where I help build and support
-    developer communities
+    🏢 I work at Logic information systems where I help build and support developer communities
   </li>
   <li>
     🌱 I blog about coding & life:
-    <a href="https://medium.com/@jagadeesanmay7" target="_blank">https://medium.com/@jagadeesanmay7</a
-    >
+    <a href="https://medium.com/@jagadeesanmay7" target="_blank">https://medium.com/@jagadeesanmay7</a>
   </li>
   <li>
     🦜 I’m on Twitter
-    <a href="https://twitter.com/jagadeesanmay7" target="_blank">https://twitter.com/jagadeesanmay7</a
-    >
+    <a href="https://twitter.com/jagadeesanmay7" target="_blank">https://twitter.com/jagadeesanmay7</a>
+  </li>
+  <li>
+    🐘 I'm on Mastodon
+    <a href="https://masto.ai/@Jagadeesanmay7">https://masto.ai/@Jagadeesanmay7</a>
   </li>
   <li>
     📫 How to reach me:
