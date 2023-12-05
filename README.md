@@ -2,7 +2,7 @@
 <ul>
   <li>🔭 I’m Jagadeesan</li>
   <li>
-    🏢 I work at Logic information systems where I help build and support developer communities
+    🏢 I work at Agilysys Technologies India pvt ltd where I help build and support developer communities
   </li>
   <li>
     🌱 I blog about coding & life:
