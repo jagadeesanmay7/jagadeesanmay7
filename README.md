@@ -9,10 +9,6 @@
     <a href="https://medium.com/@jagadeesanmay7" target="_blank">https://medium.com/@jagadeesanmay7</a>
   </li>
   <li>
-    🦜 I’m on X
-    <a href="https://twitter.com/jagadeesanmay7" target="_blank">https://twitter.com/jagadeesanmay7</a>
-  </li>
-  <li>
     🐘 I'm on Mastodon
     <a href="https://masto.ai/@Jagadeesanmay7">https://masto.ai/@Jagadeesanmay7</a>
   </li>
