@@ -18,7 +18,7 @@
   </li>
   <li>
     📫 How to reach me:
-    <a href="mailto:jagadeesanmay7@gmail.com" target="_blank">jagadeesanmay7@gmail.com</a>
+    <a href="mailto:techsavvyhe@gmail.com" target="_blank">jagadeesanmay7@gmail.com</a>
   </li>
   <li>😄 Pronouns: he/him/his</li>
   <li>⚡ Fun fact: I love you</li>
