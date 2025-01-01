@@ -19,10 +19,3 @@
   <li>😄 Pronouns: he/him/his</li>
   <li>⚡ Fun fact: I love you</li>
 </ul>
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jagadeesanmay7&"
-    alt="jagadeesanmay7"
-  />
-</p>
